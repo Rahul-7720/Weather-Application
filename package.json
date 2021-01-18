@@ -1,0 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Real Time Weather Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rahul_Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
